@@ -12,4 +12,5 @@ function isEven(someNum) {
         return "This number is odd";
     }
 }
-console.log(isEven(5));
+//prints out return
+console.log(isEven(2));

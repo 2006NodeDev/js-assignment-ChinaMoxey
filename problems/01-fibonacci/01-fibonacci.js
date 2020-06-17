@@ -40,5 +40,5 @@ function fib_three(n,memo){
 
 console.log(fib(20));
 console.log(fib_two(20));
-console.log(fib_three(20));
+console.log(fib_three(20,3));
 
